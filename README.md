@@ -12,7 +12,7 @@
 
 ---
 
-# Hey, I'm Khalid  Khan 👋
+# Hey, I'm Khalid Ziya Khan 👋
 
 I'm a Full-Stack Developer who builds web apps that actually work — clean backends, sharp frontends, and everything in between. I work with Python, PHP, and modern APIs to ship SaaS products, AI-powered tools, and scalable web applications.
 
